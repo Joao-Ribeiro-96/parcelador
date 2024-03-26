@@ -1,0 +1,4 @@
+pt/awpag/controllers/ClienteController.class
+pt/awpag/domain/models/Cliente.class
+pt/awpag/domain/models/Cliente$ClienteBuilder.class
+pt/awpag/ParceladorApplication.class
